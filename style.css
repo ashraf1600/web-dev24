@@ -1,0 +1,35 @@
+h1{
+    color : whitesmoke;
+    background-color: dodgerblue;
+    text-align: center;
+    border: 2px solid tomato;
+    border-style:groove;
+}
+p{
+    background-color: tomato;
+    color: whitesmoke;
+    border : 3px solid red;
+    border-radius:5px;
+    border-style:outset;
+    margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+  margin-left: 10px;
+
+}
+.one{
+    background-color: green;
+    opacity: 0.3;
+    
+
+}
+.two
+{
+    background-color: green;
+    opacity:0.6
+}
+.Three
+{
+    background-color: green;
+    opacity: 1;
+}
